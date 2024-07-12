@@ -6,11 +6,15 @@ I had used a sample dataset from Kaggle. The files were in CSV format and I clea
 
 MAIN KPIs:
 
-No of  Floof Proof Houses
-Govt Check in last 3 months
-Storage Issue in last 3 months
-Product weight in Tonnes shipped in last 3 months
-Warehouse Breakdown in last 3 months
+1. No of  Floof Proof Houses
+
+2. Govt Check in last 3 months
+
+3. Storage Issue in last 3 months
+
+4. Product weight in Tonnes shipped in last 3 months
+
+5. Warehouse Breakdown in last 3 months
 
 How did I manage to come to these KPIs?
 The data was mainly about flood affected, electricty failure affected, storage issues, and other things. Also in the problem statement it is clearly mentioned that one has to make a dashboard where the target variable is the breakdown causing factors. From both these points it was data driven decision to track the above KPIs in my dashboard. 
@@ -18,10 +22,13 @@ The data was mainly about flood affected, electricty failure affected, storage i
 
 Visualizations Used:
 
-Bar Chart
-Line and Bar Chart
-Line Chart
-Tree Map
+1. Bar Chart
+
+2. Line and Bar Chart
+
+3. Line Chart
+
+4. Tree Map
 
 Challenges:
 
