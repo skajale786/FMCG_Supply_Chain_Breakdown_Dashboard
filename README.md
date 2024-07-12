@@ -16,7 +16,8 @@ MAIN KPIs:
 
 5. Warehouse Breakdown in last 3 months
 
-How did I manage to come to these KPIs?
+How did I manage to finalize to these KPIs?
+
 The data was mainly about flood affected, electricty failure affected, storage issues, and other things. Also in the problem statement it is clearly mentioned that one has to make a dashboard where the target variable is the breakdown causing factors. From both these points it was data driven decision to track the above KPIs in my dashboard. 
 
 
