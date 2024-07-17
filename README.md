@@ -34,3 +34,11 @@ Visualizations Used:
 Challenges:
 
 Data Cleaning: Converting the CSVs to Excel and vice versa after cleaning. Used simple excel functions to clean and preprocess the data before loading it into the database.
+
+
+
+Contact: 
+
+https://www.linkedin.com/in/sahil-kajale-b95b36182/
+
+kajalesahil7@gmail.com
